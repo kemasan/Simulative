@@ -48,7 +48,7 @@ CREATE TABLE sales (
     doc_id VARCHAR(50),
     item VARCHAR(255),
     category VARCHAR(100),
-    amount INT,
+    amount DECIMAL(10, 2),
     price DECIMAL(10, 2),
     discount DECIMAL(10, 2)
 );
