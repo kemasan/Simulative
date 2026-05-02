@@ -1,0 +1,8 @@
+pandas
+os
+random
+uuind
+psycopg2-binary
+configparser
+ipykernel
+logging
